@@ -14,5 +14,5 @@ The application dynamically generates inspirational quotes using JavaScript, pre
 -JavaScript: As the driving force behind the dynamic quote generation, JavaScript powers the application's core functionality.
 
 ##Acknowledgements
-This project draws inspiration from various sources, including tutorials, code snippets, and open-source contributions from the development community. 
+This project draws inspiration from various sources, including: tutorials, code snippets, and open-source contributions from the development community. 
 The collaborative efforts of developers have contributed to the creation of this uplifting and motivational tool.
