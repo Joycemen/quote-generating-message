@@ -7,10 +7,11 @@ The generator is built using HTML, CSS, and JavaScript, and it offers a simple a
 The application dynamically generates inspirational quotes using JavaScript, presenting users with a new quote each time they interact with the generating button.
 
 ##Technologies used
-The project is built using the following technologies:
-+HTML: For creating the structure and content of the web-based application.
-+CSS: For styling the user interface and enhancing the visual appeal of the application.
-+JavaScript: As the driving force behind the dynamic quote generation, JavaScript powers the application's core functionality.
+
+-**The project is built using the following technologies:
+-HTML: For creating the structure and content of the web-based application.
+-CSS: For styling the user interface and enhancing the visual appeal of the application.
+-JavaScript: As the driving force behind the dynamic quote generation, JavaScript powers the application's core functionality.
 
 ##Acknowledgements
 This project draws inspiration from various sources, including tutorials, code snippets, and open-source contributions from the development community. 
